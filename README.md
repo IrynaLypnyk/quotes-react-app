@@ -1,6 +1,8 @@
 
 ## DEMO
+#### App - [https://iryna-lypnyk-quotes-react-app.netlify.app/](https://iryna-lypnyk-quotes-react-app.netlify.app/)
 #### Server on Glitch, live site - [https://iryna-lypnyk-quote-server.glitch.me/](https://iryna-lypnyk-quote-server.glitch.me/)
+#### Server code  - [https://github.com/IrynaLypnyk/quote-server](https://github.com/IrynaLypnyk/quote-server)
 
 # Challenge: A Quote Server
 
